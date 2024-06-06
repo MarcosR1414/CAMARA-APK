@@ -1,0 +1,6 @@
+com.example.cameraxexample.test.app-annotation-experimental-1.3.0-0 C:\Users\MARCOS\.gradle\caches\transforms-3\9208bd192032555391c11bf5cf84578f\transformed\annotation-experimental-1.3.0\res
+com.example.cameraxexample.test.app-core-1.5.0-1 C:\Users\MARCOS\.gradle\caches\transforms-3\d964abf0a4666ff808ac00b1fa8f3604\transformed\core-1.5.0\res
+com.example.cameraxexample.test.app-androidTest-2 C:\Users\MARCOS\AndroidStudioProjects\Android-Camera-using-CameraX-main\app\build\generated\res\resValues\androidTest\debug
+com.example.cameraxexample.test.app-mergeDebugAndroidTestResources-3 C:\Users\MARCOS\AndroidStudioProjects\Android-Camera-using-CameraX-main\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.cameraxexample.test.app-mergeDebugAndroidTestResources-4 C:\Users\MARCOS\AndroidStudioProjects\Android-Camera-using-CameraX-main\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.cameraxexample.test.app-debugAndroidTest-5 C:\Users\MARCOS\AndroidStudioProjects\Android-Camera-using-CameraX-main\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources

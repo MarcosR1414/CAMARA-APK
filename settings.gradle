@@ -1,0 +1,18 @@
+pluginManagement {
+    repositories {
+        google()
+        mavenCentral()
+        gradlePluginPortal()
+    }
+}
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+        // Aquí puedes agregar cualquier otro repositorio que necesites, por ejemplo:
+        // jcenter() // aunque se recomienda migrar a otros repositorios ya que JCenter está en desuso
+    }
+}
+rootProject.name = "CameraXExample"
+include ':app'
